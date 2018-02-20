@@ -5,3 +5,7 @@
 /UberSignatureLib/obj
 /UberSignatureLib/.DS_Store
 /UberSignature.userprefs
+/packages
+/UberSignatureNuget.NuGet/.DS_Store
+/UberSignatureNuget.NuGet/bin
+/UberSignatureNuget.NuGet/obj

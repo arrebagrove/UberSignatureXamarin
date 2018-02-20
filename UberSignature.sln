@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberSignature", "UberSignat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberSignatureLib", "UberSignatureLib\UberSignatureLib.csproj", "{4601B7B0-5F60-44C0-8D6A-6DB3B73F59C4}"
 EndProject
+Project("{5DD5E4FA-CB73-4610-85AB-557B54E96AA9}") = "UberSignatureNuget.NuGet", "UberSignatureNuget.NuGet\UberSignatureNuget.NuGet.nuproj", "{DDAB283E-FFD1-4957-998A-2A44C0E9CE1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -29,5 +31,13 @@ Global
 		{4601B7B0-5F60-44C0-8D6A-6DB3B73F59C4}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{4601B7B0-5F60-44C0-8D6A-6DB3B73F59C4}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{4601B7B0-5F60-44C0-8D6A-6DB3B73F59C4}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{DDAB283E-FFD1-4957-998A-2A44C0E9CE1A}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{DDAB283E-FFD1-4957-998A-2A44C0E9CE1A}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{DDAB283E-FFD1-4957-998A-2A44C0E9CE1A}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{DDAB283E-FFD1-4957-998A-2A44C0E9CE1A}.Release|iPhone.Build.0 = Release|Any CPU
+		{DDAB283E-FFD1-4957-998A-2A44C0E9CE1A}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{DDAB283E-FFD1-4957-998A-2A44C0E9CE1A}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{DDAB283E-FFD1-4957-998A-2A44C0E9CE1A}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{DDAB283E-FFD1-4957-998A-2A44C0E9CE1A}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
